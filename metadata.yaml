@@ -1,0 +1,50 @@
+_repo: Titus-Andronicus_25707
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, François Pierre Guillaume
+    - Guizot, Francois Pierre Guillaume
+    - Guisot, M. (François)
+    - Guizot, M. (François)
+    - Guizot, Monsieur (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25707'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Andronicus, Titus (Legendary character) -- Drama'
+- !lcsh 'Rome -- History -- Germanic invasions, 3rd-6th centuries -- Drama'
+- !lcsh 'Goths -- Drama'
+- !lcsh 'Generals -- Drama'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- !lcsh 'Historical drama'
+title: Titus Andronicus
+url: http://www.gutenberg.org/ebooks/25707
